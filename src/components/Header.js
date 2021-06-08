@@ -28,9 +28,9 @@ export const Header = () => {
                                 <li className="nav-item">
                                     <Link className="nav-link" to="/pricing">pricing</Link>
                                 </li>
-                                <li className="nav-item">
+                                {/* <li className="nav-item">
                                     <Link className="nav-link" to="/gallery">gallery</Link>
-                                </li>
+                                </li> */}
                                 {/* <li className="nav-item dropdown">
                                     <a className="nav-link dropdown-toggle" href="" id="navbarDropdown"
                                         role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

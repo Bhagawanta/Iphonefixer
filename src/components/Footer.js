@@ -66,7 +66,7 @@ export const Footer = () => {
                 <div className="col-lg-12">
                     <div className="copyright_text">
                         <p><center>
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i className="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;2021 All rights reserved by Bhagwanta
 </center></p>
                     </div>
                 </div>
