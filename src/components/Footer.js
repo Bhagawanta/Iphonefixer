@@ -13,11 +13,11 @@ export const Footer = () => {
                         </p>
                     </div>
                 </div>
-                <div className="col-sm-4 col-md-4 col-lg-2">
+                {/* <div className="col-sm-4 col-md-4 col-lg-2">
                     <div className="single_footer_part">
                         <h4>About Us</h4>
                         <ul className="list-unstyled">
-                            <li><a href="">Managed Website</a></li>
+                            <li><a href="#">Managed Website</a></li>
                             <li><a href="">Manage Reputation</a></li>
                             <li><a href="">Power Tools</a></li>
                             <li><a href="">Marketing Service</a></li>
@@ -59,7 +59,7 @@ export const Footer = () => {
                             <li><a href="">Manage Reputation</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> */}
             </div>
             <hr/>
             <div className="row" style={{marginBottom:10}}>
