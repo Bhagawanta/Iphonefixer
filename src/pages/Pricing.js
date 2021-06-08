@@ -46,7 +46,7 @@ export const Pricing = () => {
                             <li>3 Host Domain</li>
                             <li>24/7 Support</li>
                         </ul>
-                        <a href="#" className="pricing_btn">Purchase Now</a>
+                        {/* <a href="#" className="pricing_btn">Purchase Now</a> */}
                     </div>
                 </div>
                 <div className="col-lg-3 col-sm-6">
@@ -62,7 +62,7 @@ export const Pricing = () => {
                             <li>3 Host Domain</li>
                             <li>24/7 Support</li>
                         </ul>
-                        <a href="#" className="pricing_btn">Purchase Now</a>
+                        {/* <a href="#" className="pricing_btn">Purchase Now</a> */}
                     </div>
                 </div>
                 <div className="col-lg-3 col-sm-6">
@@ -78,7 +78,7 @@ export const Pricing = () => {
                             <li>3 Host Domain</li>
                             <li>24/7 Support</li>
                         </ul>
-                        <a href="#" className="pricing_btn">Purchase Now</a>
+                        {/* <a href="#" className="pricing_btn">Purchase Now</a> */}
                     </div>
                 </div>
                 <div className="col-lg-3 col-sm-6">
@@ -94,7 +94,7 @@ export const Pricing = () => {
                             <li>3 Host Domain</li>
                             <li>24/7 Support</li>
                         </ul>
-                        <a href="#" className="pricing_btn">Purchase Now</a>
+                        {/* <a href="#" className="pricing_btn">Purchase Now</a> */}
                     </div>
                 </div>
             </div>
