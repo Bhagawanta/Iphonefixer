@@ -19,7 +19,7 @@ export const Home = () => {
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                                 sed do eiusmod tempor incididunt ut labore et dolore magna
                                 aliqua. Ut enim ad minim veniam.</p>
-                            <a href="#" className="btn_2">try for free</a>
+                            {/* <a href="#" className="btn_2">try for free</a> */}
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@ export const Home = () => {
                             gathering wherein open make living Female itself
                             gathering man. Waters and, two. Bearing. Saw she'd
                             all let she'd lights abundantly blessed.</p>
-                        <a href="#" className="btn_2">learn more</a>
+                        {/* <a href="#" className="btn_2">learn more</a> */}
                     </div>
                 </div>
                 <div className="col-md-6 col-lg-6">
@@ -123,7 +123,7 @@ export const Home = () => {
                             gathering wherein open make living Female itself
                             gathering man. Waters and, two. Bearing. Saw she'd
                             all let she'd lights abundantly blessed.</p>
-                        <a href="#" className="btn_2">learn more</a>
+                        {/* <a href="#" className="btn_2">learn more</a> */}
                     </div>
                 </div>
             </div>
@@ -158,7 +158,7 @@ export const Home = () => {
                             <li>3 Host Domain</li>
                             <li>24/7 Support</li>
                         </ul>
-                        <a href="#" className="pricing_btn">Purchase Now</a>
+                        {/* <a href="#" className="pricing_btn">Purchase Now</a> */}
                     </div>
                 </div>
                 <div className="col-lg-3 col-sm-6">
@@ -174,7 +174,7 @@ export const Home = () => {
                             <li>3 Host Domain</li>
                             <li>24/7 Support</li>
                         </ul>
-                        <a href="#" className="pricing_btn">Purchase Now</a>
+                        {/* <a href="#" className="pricing_btn">Purchase Now</a> */}
                     </div>
                 </div>
                 <div className="col-lg-3 col-sm-6">
@@ -190,7 +190,7 @@ export const Home = () => {
                             <li>3 Host Domain</li>
                             <li>24/7 Support</li>
                         </ul>
-                        <a href="#" className="pricing_btn">Purchase Now</a>
+                        {/* <a href="#" className="pricing_btn">Purchase Now</a> */}
                     </div>
                 </div>
                 <div className="col-lg-3 col-sm-6">
@@ -206,7 +206,7 @@ export const Home = () => {
                             <li>3 Host Domain</li>
                             <li>24/7 Support</li>
                         </ul>
-                        <a href="#" className="pricing_btn">Purchase Now</a>
+                        {/* <a href="#" className="pricing_btn">Purchase Now</a> */}
                     </div>
                 </div>
             </div>

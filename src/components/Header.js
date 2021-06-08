@@ -55,7 +55,7 @@ export const Header = () => {
                                 </li>
                             </ul>
                         </div>
-                        <a href="#" className="d-none d-sm-block btn_1 home_page_btn">sing up</a>
+                       <Link > sing up </Link>
                     </nav>
                 </div>
             </div>
