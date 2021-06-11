@@ -25,9 +25,9 @@ export const Header = () => {
                                 <li className="nav-item">
                                     <Link to="/features" className="nav-link">features</Link>
                                 </li>
-                                <li className="nav-item">
+                                {/* <li className="nav-item">
                                     <Link className="nav-link" to="/pricing">pricing</Link>
-                                </li>
+                                </li> */}
                                 <li className="nav-item">
                                     <Link className="nav-link" to="/gallery">gallery</Link>
                                 </li>
@@ -55,7 +55,7 @@ export const Header = () => {
                                 </li>
                             </ul>
                         </div>
-                        <a href="#" className="d-none d-sm-block btn_1 home_page_btn">sing up</a>
+                        {/* <a href="#" className="d-none d-sm-block btn_1 home_page_btn">sing up</a> */}
                     </nav>
                 </div>
             </div>
