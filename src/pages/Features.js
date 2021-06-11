@@ -76,7 +76,7 @@ export const Features = () => {
                             gathering wherein open make living Female itself
                             gathering man. Waters and, two. Bearing. Saw she'd
                             all let she'd lights abundantly blessed.</p>
-                        {/* <a href="#" className="btn_2">learn more</a> */}
+                        <a href="#" className="btn_2">learn more</a>
                     </div>
                 </div>
                 <div className="col-md-6 col-lg-6">
@@ -109,7 +109,7 @@ export const Features = () => {
                             gathering wherein open make living Female itself
                             gathering man. Waters and, two. Bearing. Saw she'd
                             all let she'd lights abundantly blessed.</p>
-                        {/* <a href="#" className="btn_2">learn more</a> */}
+                        <a href="#" className="btn_2">learn more</a>
                     </div>
                 </div>
             </div>
