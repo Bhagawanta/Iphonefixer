@@ -28,10 +28,8 @@ export const Features = () => {
                     <div className="single_feature">
                         <div className="single_feature_part">
                             <img src="assets/img/icon/feature_icon_1.png" alt=""/>
-                            <h4>Fully Secured</h4>
-                            <p>Made great fish shall beast, fourth land also Doesn
-                                tree without lesser likeness he fruit of called gathering
-                                day whose called were have </p>
+                            <h4>High Quality FiXParts</h4>
+                            <p>Customer satisfaction is our ultimate priority and sourcing for the best replacement parts come with a 90 day warranty. </p>
                         </div>
                     </div>
                 </div>
@@ -39,10 +37,8 @@ export const Features = () => {
                     <div className="single_feature">
                         <div className="single_feature_part">
                             <img src="assets/img/icon/feature_icon_2.png" alt=""/>
-                            <h4>Unique Design</h4>
-                            <p>Made great fish shall beast, fourth land also Doesn tree
-                                without lesser likeness he fruit of called gathering day whose
-                                called were have </p>
+                            <h4>Free FiX Diagnosis</h4>
+                            <p>Our technical specialists are professional in conducting a diagnosis for our customers’ device, at no cost. </p>
                         </div>
                     </div>
                 </div>
@@ -50,9 +46,8 @@ export const Features = () => {
                     <div className="single_feature">
                         <div className="single_feature_part">
                             <img src="assets/img/icon/feature_icon_3.png" alt=""/>
-                            <h4>A Volunteer</h4>
-                            <p>Made great fish shall beast, fourth land also Doesn tree without
-                                lesser likeness he fruit of called gathering day whose called were have </p>
+                            <h4>FiX Contact & Support</h4>
+                            <p>Our customers can get in touch with us for a quicker response through our various online communication platforms. </p>
                         </div>
                     </div>
                 </div>
@@ -69,13 +64,11 @@ export const Features = () => {
                 <div className="col-md-6 col-lg-5">
                     <div className="about_us_text">
                         <img src="assets/img/icon/Icon_1.png" alt=""/>
-                        <h2>Easy To <br/>
-                            Access Social Media</h2>
-                        <p>Saw shall light. Us their to place had creepeth day
-                            night great wher appear to. Hath, called, sea called,
-                            gathering wherein open make living Female itself
-                            gathering man. Waters and, two. Bearing. Saw she'd
-                            all let she'd lights abundantly blessed.</p>
+                        <h2>We Can FiX <br/>
+                        It In Your Face</h2>
+                        <p>We offer various repair and replacements for iPhone & iPad. 
+                        At iPhoneFix, we ensure that your mobile devices are intact, while your personal data are safeguarded.
+                         Rest assured that your device security is also our priority.</p>
                         {/* <a href="" className="btn_2">learn more</a> */}
                     </div>
                 </div>
@@ -102,13 +95,9 @@ export const Features = () => {
                 <div className="col-md-6 col-lg-5">
                     <div className="about_us_text">
                         <img src="assets/img/icon/Icon_2.png" alt=""/>
-                        <h2>With efficiency to
-                            unlock more opportunities</h2>
-                        <p>Saw shall light. Us their to place had creepeth day
-                            night great wher appear to. Hath, called, sea called,
-                            gathering wherein open make living Female itself
-                            gathering man. Waters and, two. Bearing. Saw she'd
-                            all let she'd lights abundantly blessed.</p>
+                        <h2>Bring Your Device To Us</h2>
+                        <p>Overall, our repairs are done right in front of you - “ We Fix It in Your Face!".
+                            Where it is deemed necessary, we will open up your device and examine the root cause of the problem</p>
                         {/* <a href="#" className="btn_2">learn more</a> */}
                     </div>
                 </div>
