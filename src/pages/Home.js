@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 export const Home = () => {
     return (
         <React.Fragment>
@@ -83,7 +83,7 @@ export const Home = () => {
                         <p>We offer various repair and replacements for iPhone & iPad. 
                         At iPhoneFix, we ensure that your mobile devices are intact, while your personal data are safeguarded.
                          Rest assured that your device security is also our priority.</p>
-                        <a href="#" className="btn_2">learn more</a>
+                        {/* <a href="#" className="btn_2">learn more</a> */}
                     </div>
                 </div>
                 <div className="col-md-6 col-lg-6">
@@ -112,7 +112,7 @@ export const Home = () => {
                         <h2>Bring Your Device To Us</h2>
                         <p>Overall, our repairs are done right in front of you - “ We Fix It in Your Face!".
                             Where it is deemed necessary, we will open up your device and examine the root cause of the problem</p>
-                        <a href="#" className="btn_2">learn more</a>
+                        {/* <a href="#" className="btn_2">learn more</a> */}
                     </div>
                 </div>
             </div>

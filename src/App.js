@@ -5,7 +5,7 @@ import { Home  } from './pages/Home';
 import { Features } from './pages/Features';
 import { Gallery } from './pages/Gallery';
 import { Contact } from  './pages/Contact';
-import { Pricing } from './pages/Pricing';
+// import { Pricing } from './pages/Pricing';
  
 const  App=()=> {
   return (
