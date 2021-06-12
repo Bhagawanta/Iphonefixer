@@ -23,7 +23,7 @@ export const Contact = () => {
           alert("Please provide subject");
         }
         else {
-        alert("Hello");
+        // alert("Hello");
         emailjs.sendForm('service_zdrgl8y', 'template_vf7dgma', e.target, 'user_489Ax7gnUxmxSol8Edmje')
         .then((result) => {
            alert("Email Send Successfully.......");
