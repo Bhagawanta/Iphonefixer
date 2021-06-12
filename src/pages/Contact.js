@@ -56,7 +56,11 @@ export const Contact = () => {
     <div className="container">
       <div className="d-none d-sm-block mb-5 pb-4">
         <div id="map" style={{height:"480px"}}>
+<<<<<<< HEAD
          <iframe  title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d281.40284696159245!2d73.74818861266154!3d18.553901035109238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf3769a7f95f%3A0x8b3844cc4d36c068!2sIPhone%20Fixer%20(The%20iPhone%20Technician)!5e0!3m2!1sen!2sin!4v1623384356324!5m2!1sen!2sin" width="1200" height="480" style={{border:0}} allowfullscreen="" loading="lazy"></iframe> 
+=======
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d281.40284696159245!2d73.74818861266154!3d18.553901035109238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf3769a7f95f%3A0x8b3844cc4d36c068!2sIPhone%20Fixer%20(The%20iPhone%20Technician)!5e0!3m2!1sen!2sin!4v1623384356324!5m2!1sen!2sin" width="1200" height="480" style={{border:0}} allowfullscreen="" loading="lazy"></iframe> 
+>>>>>>> f3c5e873024742aacd3e3997131c7e61a9dacf2d
         </div>
       </div>
 
