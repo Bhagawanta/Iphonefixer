@@ -24,7 +24,7 @@ export const Contact = () => {
         }
         else {
         // alert("Hello");
-        emailjs.sendForm('service_zdrgl8y', 'template_vf7dgma', e.target, 'user_489Ax7gnUxmxSol8Edmje')
+        emailjs.sendForm('service_m40l601', 'template_vf7dgma', e.target, 'user_489Ax7gnUxmxSol8Edmje')
         .then((result) => {
            alert("Email Send Successfully.......");
             console.log(result.text);
